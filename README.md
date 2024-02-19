@@ -1,6 +1,6 @@
 # Google Gemini Pro Chatbot
-
 This repository contains the code for a chatbot built using Google Gemini Pro and Streamlit. It allows users to interact with the Gemini Pro model through a web interface.
+https://github.com/mohiteyashprogrammer/Google-Gemini-Pro-Chatbot/assets/114924851/5c06cde7-6e8f-4cff-a25e-73e959d3edea
 
 ## Description
 
